@@ -1,0 +1,6 @@
+order_id,customer_id,product,category,amount,order_date,country
+1,101,Laptop,Electronics,75000,2024-01-10,India
+2,102,Mobile,Electronics,30000,2024-01-11,India
+3,103,Tablet,Electronics,25000,2024-01-12,USA
+4,101,Headphones,Accessories,2000,2024-01-13,India
+5,104,Monitor,Electronics,15000,2024-01-14,USA
