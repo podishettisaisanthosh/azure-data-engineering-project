@@ -1,0 +1,26 @@
+customer_id,customer_name,email,city,country,signup_date
+101,Rahul Sharma,rahul.sharma@gmail.com,Bangalore,India,2023-01-15
+102,Anita Verma,anita.verma@gmail.com,Delhi,India,2023-02-10
+103,John Smith,john.smith@gmail.com,New York,USA,2023-02-18
+104,Emily Johnson,emily.j@gmail.com,California,USA,2023-03-05
+105,Arjun Reddy,arjun.reddy@gmail.com,Hyderabad,India,2023-03-22
+106,Sneha Iyer,sneha.iyer@gmail.com,Chennai,India,2023-04-01
+107,David Brown,david.b@gmail.com,Texas,USA,2023-04-14
+108,Priya Nair,priya.nair@gmail.com,Kochi,India,2023-04-20
+109,Michael Lee,michael.lee@gmail.com,Washington,USA,2023-05-02
+110,Neha Gupta,neha.gupta@gmail.com,Noida,India,2023-05-10
+111,Amit Singh,amit.singh@gmail.com,Jaipur,India,2023-05-21
+112,Sarah Wilson,sarah.w@gmail.com,Florida,USA,2023-06-01
+113,Karthik Rao,karthik.rao@gmail.com,Mysore,India,2023-06-10
+114,Olivia Martinez,olivia.m@gmail.com,Arizona,USA,2023-06-18
+115,Manoj Kumar,manoj.k@gmail.com,Patna,India,2023-07-01
+116,Daniel Harris,daniel.h@gmail.com,Ohio,USA,2023-07-10
+117,Pooja Mehta,pooja.mehta@gmail.com,Ahmedabad,India,2023-07-22
+118,Chris Anderson,chris.a@gmail.com,Oregon,USA,2023-08-01
+119,Ritu Malhotra,ritu.m@gmail.com,Gurgaon,India,2023-08-14
+120,Kevin White,kevin.w@gmail.com,Nevada,USA,2023-08-25
+121,Suresh Patel,suresh.p@gmail.com,Surat,India,2023-09-05
+122,Laura Clark,laura.c@gmail.com,Colorado,USA,2023-09-15
+123,Nikhil Jain,nikhil.j@gmail.com,Indore,India,2023-09-28
+124,Jason Miller,jason.m@gmail.com,Illinois,USA,2023-10-05
+125,Ayesha Khan,ayesha.k@gmail.com,Mumbai,India,2023-10-18
